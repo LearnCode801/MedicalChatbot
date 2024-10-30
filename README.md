@@ -1,5 +1,5 @@
 # End-to-end-Medical-Chatbot-using-Llama2
-![Alt text](p)
+![Alt text](https://github.com/LearnCode801/MedicalChatbot/blob/main/frontendpic.jpeg)
 
 # How to run?
 ### STEPS:
